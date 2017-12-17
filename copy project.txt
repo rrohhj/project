@@ -1,0 +1,91 @@
+소스트리 삭제, 파일삭제, 크롬 기록 삭제
+
+
+
+
+만들 프로젝트
+
+- 원티드 채용사이트 카피 프로젝트
+
+1. 로그인 구현
+2. 회사 리스트 페이지
+3. 선택된 회사의 상세정보
+
+backend > node, express, restfull api, MVC
+frontend > react, react router, http통신
+프로젝트 관리 > git
+
+
+
+
+> github
+new repository
+project
+FullStack Web Develop Project
+
+> source tree
+clone
+저번에 했던 http 폴더에 project폴더 만들어서 클론
+
+> project폴더
+백엔드, 프론트앤드 폴더 만들기
+
+> project > readme.md
+사용하는 툴 나열
+
+> backend 폴더 안에서 cmd
+npm init
+desc : backend for project
+git repository : 주소
+keyword : node express rest api
+autor : roh
+
+npm install --save express body-parser cors
+
+> server. js 
+server작성
+
+> cmd
+supervisor server.js
+
+backend세팅 끝
+localhost:4000쳐서 cannot get나오면 됨
+
+-----------------------------
+
+frontedn세팅 시작
+
+> project 폴더 안에서 cmd
+create-react-app frontend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
